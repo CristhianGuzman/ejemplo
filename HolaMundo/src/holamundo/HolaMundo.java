@@ -16,8 +16,8 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("holamundo.HolaMundo.main()");
-        System.err.println("Ha empezado lo bueno");
+        
+        System.err.println("Ha empezado lo bueno y Ha finalizado lo malo");
     }
     
 }
